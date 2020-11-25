@@ -48,7 +48,7 @@
   "dependencies": {
     "marked": "^1.1.1",
     "react": "^16.13.1",
-    "snyk": "^1.362.1",
+    "snyk": "^1.425.4",
     "styled-components": "^5.1.1"
   },
   "snyk": true
